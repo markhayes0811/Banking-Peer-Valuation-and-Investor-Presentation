@@ -117,11 +117,6 @@ if __name__ == '__main__':
     update_excel(args.excel)
 ```
 
----
-
-## License
-MIT (optional — add a LICENSE file if desired).
-
 
 ---
 
