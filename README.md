@@ -26,7 +26,7 @@ I chose **two large U.S. banks** (USB, WFC) and **a scaled fintech** (Block/SQ) 
 
 ---
 
-## Methodology (short version)
+## Methodology 
 **Banks (USB, WFC)**  
 - Focus on **P/B & ROTCE**; DCF with **ΔWC ≈ 0** (loans/deposits are the operating book).  
 - Use comps and benchmarking for relative value.
@@ -42,7 +42,7 @@ I chose **two large U.S. banks** (USB, WFC) and **a scaled fintech** (Block/SQ) 
 
 ---
 
-## Repository structure (suggested)
+## Repository structure
 ```
 .
 ├── README.md
