@@ -85,13 +85,6 @@ python-dotenv>=1.0.0
 
 ---
 
-## How to present Python code on GitHub
-- Put re‑usable logic in **`src/`** (simple CLI entrypoint).  
-- Show **how to run** in this README (commands + env var).  
-- Include **`requirements.txt`** and optionally a **Makefile** or **justfile**.  
-- For exploration, add a clean **`notebooks/`** notebook and export key figures as PNG into `deck/` or `assets/`.  
-- Add a tiny **smoke test** or CI step (e.g., open the Excel and check expected tabs).  
-- Keep credentials out of version control (use `.env` + `.gitignore`).
 
 **Minimal script example**:
 ```python
